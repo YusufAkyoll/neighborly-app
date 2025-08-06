@@ -11,7 +11,9 @@ Built as part of an AI-training project, implemented in a single `.tsx` file and
    ```bash
    npm install
 
-2. npm run dev
+2. Run
+   ```bash
+   npm run dev
 
 ## Features
 - Map view of neighbours
