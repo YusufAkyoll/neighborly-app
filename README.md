@@ -1,6 +1,6 @@
 # Neighborly App
 
-A neighbourhood social map app with posting, alerts and live user locations.
+A neighbourhood social map app (Mobile only) with posting, alerts and live user locations.
 
 **Project details:**  
 Built as part of an AI-training project, implemented in a single `.tsx` file and completed within a 5-hour deadline.
